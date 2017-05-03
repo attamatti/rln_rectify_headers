@@ -4,7 +4,7 @@
 # skips files that don't contain the specified column
 # helpful for combining autopicked and manual picked data 
 
-# 2017 Matt Iadanza - University of Leeds - Astbury Biostructre Laboratory
+# 2017 Matt Iadanza - University of Leeds - Astbury Centre for Structural Molecular Biology
 # please acknowlegde if you use this script
 
 
